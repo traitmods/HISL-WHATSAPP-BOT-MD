@@ -1,5 +1,5 @@
 {
-  "name": "HISL-OFFICIAL-BOT-MD",
+  "name": "TRAIT-MODS-BOT",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "hackers-in-sri-lanka.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "TRAITMODS",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
